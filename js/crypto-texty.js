@@ -14,7 +14,7 @@ function WordShuffler(holder,opt){
 
 
   var options = {
-    fps : 20,
+    fps : 30,
     timeOffset : 5,
     textColor : '#000',
     fontSize : "50px",
@@ -43,7 +43,7 @@ function WordShuffler(holder,opt){
   
   this.needUpdate = true;
   this.fps = options.fps;
-  this.interval = 1000/this.fps;
+  this.interval = 1/this.fps;
   this.timeOffset = options.timeOffset;
   this.textColor = options.textColor;
   this.fontSize = options.fontSize;
