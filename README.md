@@ -1,2 +1,2 @@
 # cryptoparty.maschinendeck.org
-Crytoparty-Seite des Maschinendecks
+Cryptoparty-Seite des Maschinendecks
