@@ -1,2 +1,4 @@
 # cryptoparty.maschinendeck.org
-Cryptoparty-Seite des Maschinendecks
+Unterseite der Maschinendeck-Homepage.<br>
+Link: <a href="http://cryptoparty.maschinendeck.org">http://cryptoparty.maschinendeck.org</a>
+
