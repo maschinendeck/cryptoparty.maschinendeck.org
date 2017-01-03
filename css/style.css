@@ -13,7 +13,7 @@ body {
 	color: #222;
 }
 /* Grid
-********************************************************************* */  
+********************************************************************* */
 .container {
 	position: relative;
 	width: 100%;
@@ -198,6 +198,10 @@ h6 {
 }
 p {
 	margin-top: 0;
+}
+
+.bold{
+	font-weight: bold;
 }
 /* Links
 ********************************************************************* */
@@ -530,7 +534,7 @@ opacity: 0;
 	padding: 100px 0 100px 0;
 }
 .image {
-	background-color: #5a5a5a;
+	background-color: white;/*#5a5a5a;*/
 	width: 100%;
 	height: auto;
 	margin-left: auto;
