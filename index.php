@@ -12,7 +12,7 @@
 <header id="header">
   <div class="main_nav">
     <div class="container">
-      <div class="mobile-toggle"> <span></span> <span></span> <span></span> </div>
+      <div class="mobile-toggle"></div>
       <nav>
         <ul>
 			<li><a class="smoothscroll" href="#header">Home</a></li>
@@ -179,13 +179,6 @@
     </div>
     <div class="row" style="margin-top: 30px;">
       <div class="three columns">
-        <h3>Telegram</h3>
-        <img src="images/logo_Telegram.png" class="image" alt="logo_Telegram.png"/>
-        Telegram ist ein sicherer und quelloffener Instant-Messanger, verfügbar für Smartphones sowie Computer.<br>
-        <span class="bold">Weiterführende Links</span><br>
-        Projektwebseite: <a href="https://telegram.org/">https://telegram.org/</a><br>
-      </div>
-      <div class="three columns">
         <h3>Signal</h3>
         <img src="images/logo_Signal.png" class="image" alt="logo_Signal.png"/>
         Signal ist ein weiterer alternativer und sicherer Messanger, auch verfügbar für Smartphones sowie Computer.<br>
@@ -194,17 +187,24 @@
       </div>
 	  <div class="three columns">
         <h3>Threema</h3>
-        <img src="images/logo_Threema.png" class="image" alt="logo_Signal.png"/>
+        <img src="images/logo_Threema.png" class="image" alt="logo_Threema.png"/>
         Threema ist so konzipiert, dass möglichst keine Datenspur entsteht: Gruppen und Kontaktlisten werden auf Ihrem Gerät und nicht auf den Servern verwaltet. Nachrichten werden sofort nach Zustellung gelöscht.<br>
         <span class="bold">Weiterführende Links</span><br>
         Projektwebseite: <a href="https://threema.ch/de">https://threema.ch/de/</a><br>
       </div>
 	  <div class="three columns">
         <h3>qTox</h3>
-        <br><img src="images/logo_qtox.png" class="image" alt="logo_Signal.png"/><br><br><br>
+        <br><img src="images/logo_qtox.png" class="image" alt="logo_qtox.png"/><br><br><br>
         Tox ist eine Peer-to-Peer-Messaging-Software. Die Arbeit an diesem Projekt begann im Jahr 2013 - als Reaktion auf die globale Massenüberwachung durch Geheimdienste - mit dem Ziel, eine freie und quelloffene Skype-Alternative zu schaffen.<br>
         <span class="bold">Weiterführende Links</span><br>
         Projektwebseite: <a href="https://tox.chat/">https://tox.chat/</a><br>
+      </div>
+	  <div class="three columns">
+        <h3>OTR</h3>
+        <br><img src="images/logo_2otr.png" class="image" alt="logo_2otr.png"/><br><br><br>
+        Off-the-Record Messaging<br>
+        <span class="bold">Weiterführende Links</span><br>
+        Projektwebseite: <a href="https://otr.cypherpunks.ca/">https://otr.cypherpunks.ca/</a><br>
       </div>
     </div>
   </div>
@@ -288,6 +288,26 @@
           &ldquo;In Zusammenarbeit mit dem Bistum Trier&rdquo;<br>
           <small>Fachstelle für Kinder und Jugendpastoral Bitburg</small></h5>
       </blockquote>
+	    <blockquote class="quote"> <img src="images/maschinendeck.png" width="100" height="100" alt=""/>
+        <h5>&nbsp;<br>
+          &rdquo;Maschinendeck e.V., Trier&rdquo;<br>
+          <small>Hacker, Maker & Nerd Space in Trier</small></h5>
+      </blockquote>
+      <blockquote class="quote"> <img src="images/jugend_Bistum_Trier.gif" width="100" height="100" alt=""/>
+        <h5>&nbsp;<br>
+          &ldquo;In Zusammenarbeit mit dem Bistum Trier&rdquo;<br>
+          <small>Fachstelle für Kinder und Jugendpastoral Bitburg</small></h5>
+      </blockquote>
+	    <blockquote class="quote"> <img src="images/maschinendeck.png" width="100" height="100" alt=""/>
+        <h5>&nbsp;<br>
+          &rdquo;Maschinendeck e.V., Trier&rdquo;<br>
+          <small>Hacker, Maker & Nerd Space in Trier</small></h5>
+      </blockquote>
+      <blockquote class="quote"> <img src="images/jugend_Bistum_Trier.gif" width="100" height="100" alt=""/>
+        <h5>&nbsp;<br>
+          &ldquo;In Zusammenarbeit mit dem Bistum Trier&rdquo;<br>
+          <small>Fachstelle für Kinder und Jugendpastoral Bitburg</small></h5>
+      </blockquote>
     </div>
   </div>
 </section>
@@ -312,7 +332,7 @@
  
  // Zu welcher Seite soll als "Danke-Seite" weitergeleitet werden?
  // Wichtig: Sie muessen hier eine gueltige HTTP-Adresse angeben!
- $urlDankeSeite = 'danke.htm'; 
+ $urlDankeSeite = 'http://cryptoparty.maschinendeck.org/danke.htm'; 
  
  // Welche(s) Zeichen soll(en) zwischen dem Feldnamen und dem angegebenen Wert stehen?
  $trenner = ":\t"; // Doppelpunkt + Tabulator
@@ -377,7 +397,7 @@
         </div>
       </div>
       <div class="row">
-        <label for="exampleMessage">Nachricht</label>
+        <label name="Bemerkungen" for="exampleMessage">Nachricht</label>
         <textarea class="u-full-width"></textarea>
         <input name="Bemerkungen" class="button-primary" type="submit" value="Absenden">
       </div>
