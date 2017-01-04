@@ -397,9 +397,9 @@
         </div>
       </div>
       <div class="row">
-        <label name="Bemerkungen" for="exampleMessage">Nachricht</label>
-        <textarea class="u-full-width"></textarea>
-        <input name="Bemerkungen" class="button-primary" type="submit" value="Absenden">
+        <label for="exampleMessage">Nachricht</label>
+        <textarea name="Bemerkungen" class="u-full-width"></textarea>
+        <input class="button-primary" type="submit" value="Absenden">
       </div>
          </form>
 		</div>
