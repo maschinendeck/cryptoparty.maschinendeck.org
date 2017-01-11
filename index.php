@@ -9,18 +9,20 @@
 </head>
 <body>
   <!-- Header Section ––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- Header Section ––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- Header Section ––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <header id="header">
   <div class="main_nav">
     <div class="container">
       <div class="mobile-toggle"></div>
       <nav>
         <ul>
-			<li><a class="smoothscroll" href="#header">Home</a></li>
-			<li><a class="smoothscroll" href="#about">Über Cryptopartys</a></li>
-			<li><a class="smoothscroll" href="#portfolio">Verwendete Software</a></li>
-			<li><a class="smoothscroll" href="#termin">Termine</a></li>
-			<li><a class="smoothscroll" href="#team">Die Veranstallter</a></li>
-			<li><a class="smoothscroll" href="#testimonial">Kontakt</a></li>
+          <li><a class="smoothscroll" href="#header">Home</a></li>
+    			<li><a class="smoothscroll" href="#about">Über Cryptopartys</a></li>
+          <li><a class="smoothscroll" href="#termin">Termine</a></li>
+    			<li><a class="smoothscroll" href="#team">Die Veranstallter</a></li>
+    			<li><a class="smoothscroll" href="#portfolio">Verwendete Software</a></li>
+    			<li><a class="smoothscroll" href="#testimonial">Kontakt</a></li>
         </ul>
       </nav>
     </div>
@@ -53,13 +55,7 @@
       <p>Bei einer Cryptoparty wird versucht, den Teilnehmern die Grundkenntnisse und Prinzipien der Verschlüsselung näher zu bringen, um somit immer mehr Menschen mit der sicheren Kommunikation im Netz vertraut zu machen. Dabei wird auf den Einsatz von freier und kostenloser Open-Source-Software sehr großen Wert gelegt.
         <br>Dank den Enthüllungen von Edward Snowden ist nun klar, dass Geheimdienste wie NSA und BND die Bürger im Internet ausspionieren. Diese Spionage können wir zwar nicht verhindern, jedoch können wir Techniken einsetzen, die es den Geheimdiensten wesentlich schwieriger macht unsere Daten auszuwerten.
         Wir stellen in Cryptopartys Programme, Tools und Hinweise vor, welche ohne großen Aufwand das Surfen im Internet sowie das versenden von E-Mails verschlüsselt.
-
-      <!--  Diesen Spionagen kann man jedoch gegensteuern, indem man einfache Programme einsetzt, dieDem kann man ohne großen aufwand entgegenwirken.
--->
       </p>
-<!--
-      <p>Das Ziel einer Cryptoparty ist es, Menschen die Grundlegenden Techniken der Verschlüsselung näher zu bringen. Zudem wird noch versucht, freie und kostenlose Software einzusetzen.</p>
--->
     </div>
     <div class="row">
       <div class="six columns">
@@ -84,61 +80,68 @@
   </div>
 </section>
 
-<!-- Skills Section
+<!-- Termine Section
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<!--
-<section id="party">
+<section id="termin">
   <div class="container">
-    <h1>Die Party</h1>
-    <div class="block"></div>
     <div class="row">
-      <div class="one-third column">
-        <h3>wie funmktioneirt das </h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, recusandae, at, labore velit eligendi amet nobis repellat natus.</p>
-      </div>
-      <div class="one-third column">
-        <h3>was amchen wir hier</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, recusandae, at, labore velit eligendi amet nobis repellat natus.</p>
-      </div>
-      <div class="one-third column">
-        <h3>damit ihr was lernt xD</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, recusandae, at, labore velit eligendi amet nobis repellat natus.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="eight columns">
-        <div class="progressBar">
-          <h4>Verschlüsselung</h4>
-          <div class="progressBarContainer">
-            <div class="progressBarValue value-90"></div>
-          </div>
-        </div>
-        <div class="progressBar">
-          <h4>Meta-Daten</h4>
-          <div class="progressBarContainer">
-            <div class="progressBarValue value-80"></div>
-          </div>
-        </div>
-        <div class="progressBar">
-          <h4>Das Interent</h4>
-          <div class="progressBarContainer">
-            <div class="progressBarValue value-30"></div>
-          </div>
-        </div>
-        <div class="progressBar">
-          <h4>Das Level 8 Problem</h4>
-          <div class="progressBarContainer">
-            <div class="progressBarValue value-70"></div>
-          </div>
-        </div>
-      </div>
-      <div class="four columns">
-        <p>Lorem ipsum dolor sit amet, enim soluta consectetur adipisicing elit. Sit, eius, itaque, porro, beatae impedit officia tenetur reiciendis in quia eum autem. Enim soluta consectetur adipisicing elit.</p>
-      </div>
+      <h1>Termine</h1>
+      <div class="block"></div>
+<p>Das Maschinendeck aus Trier veranstaltet in Kooperation mit der Fachstelle für Kinder- und Jugendpastoral am <strong>25. November 2017, 14 bis 17 Uhr im Haus der Jugend in Bitburg</strong> eine Cryptoparty.
+  Um besser Planen zu können bitten wir um eine Anmeldung bis zum 01.11.2017 via E-Mail an cryptoparty@pgp.space.<br><br>
+  Grundlegende Kenntnisse mit dem Umgang eines Computers sollten vorhanden sein. Eigene Notebooks bzw. Laptops sollten auf jeden Fall mitgebracht werden, um Praxisübungen während der Cryptoparty durchzuführen.
+  Teilnehmer ohne eigenen Laptop können trotzdem sehr gerne mitmachen, einige Geräte können wir auch zur Verfügung stellen.
+  Komplette Desktop-Systeme sollten aus Platzgründen jedoch nicht mitgebracht werden! Die oben aufgelisteten Programme müssen noch nicht vor der Cryptoparty installiert sein. Während der Party werden wir diese zusammen Installieren und Konfigurieren.
+</p>
     </div>
   </div>
 </section>
--->
+
+<!-- Team Section
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<section id="team">
+  <div class="container">
+    <div class="row">
+      <h1>Die Veranstallter</h1>
+      <div class="block"></div>
+      <p>Vom Maschinendeck e.V. aus Trier sind zu gast, Julian "y0sh" und Niklas, auch "Energy" genannt, in Kooperation mit Rafael Stoll von der Fachstelle für Kinder und Jugendpastoral Bitburg des Bistum Triers die Cryptoparty am 25. November 2017, 14 bis 17 Uhr. im Haus der Jugend in Bitburg.</p>
+    </div>
+    <div class="row">
+      <div class="three columns">
+        <h4>Julian | y0sh</h4>
+        <p>Mitglied im Maschinendeck e.V.</p>
+        <p>
+          <span class="bold">Kontakt</span><br>
+          <a href="http://y0sh.net" target="_blank"><span class="typcn typcn-home-outline icon"></span></a>
+          <a href="mailto:mail@y0sh.net" target="_blank"><span class="typcn typcn-mail icon"></span></a>
+          <a href="https://twitter.com/y_0_s_h" target="_blank"><span class="typcn typcn-social-twitter icon"></span></a>
+          <br> <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x0679CB2A1DF4D852">PGP-Key</a>
+        </p>
+      </div>
+      <div class="three columns">
+        <h4>Niklas | Energy</h4>
+        <p>Mitglied im Maschinendeck e.V.</p>
+        <p>
+          <span class="bold">Kontakt</span><br>
+          <a href="http://www.niklas-schmitt.de" target="_blank"><span class="typcn typcn-home-outline icon"></span></a>
+          <a href="mailto:niklas@niklas-schmitt.de" target="_blank"><span class="typcn typcn-mail icon"></span></a>
+          <a href="https://twitter.com/NikPWR" target="_blank"><span class="typcn typcn-social-twitter icon"></span></a>
+          <br> <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x48B2693339DA4F66">PGP-Key</a>
+        </p>
+      </div>
+        <div class="three columns">
+        <h4>Rafael Stoll</h4>
+        <p>Mitarbeiter der Fachstelle für Kinder und Jugendpastoral Bitburg</p>
+        <p>
+          <span class="bold">Kontakt</span><br>
+          <a href="https://www.facebook.com/Fachstelle-f%C3%BCr-Kinder-und-Jugendpastoral-Bitburg-122957481144125/" target="_blank"><span class="typcn typcn-social-facebook icon"></span></a>
+          <a href="mailto:rafael.stoll@bgv-trier.de" target="_blank"><span class="typcn typcn-mail icon"></span></a>
+        </p>
+    </div>
+  </div>
+</section>
+
 <!-- Portfolio Section
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
@@ -210,68 +213,6 @@
   </div>
 </section>
 
-<!-- Termine Section
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<section id="termin">
-  <div class="container">
-    <div class="row">
-      <h1>Termine</h1>
-      <div class="block"></div>
-<p>Das Maschinendeck aus Trier veranstaltet in Kooperation mit dem Bistum Trier am 25. November 2017, 14 bis 17 Uhr. im Haus der Jugend in Bitburg eine Cryptoparty.
-  Um besser Planen zu können bitten wir um eine Anmeldung bis zum 01.11.2017 via E-Mail an cryptoparty@pgp.space.<br>
-  Grundlegende Kenntnisse mit dem Umgang eines Computers sollten vorhanden sein. Eigene Notebooks bzw. Laptops sollten auf jeden Fall mitgebracht werden, um Praxisübungen während der Cryptoparty durchzuführen.
-  Teilnehmer ohne eigenen Laptop können trotzdem sehr gerne mitmachen, einige Geräte können wir auch zur Verfügung stellen.
-  Komplette Desktop-Systeme sollten aus Platzgründen jedoch nicht mitgebracht werden! Die oben aufgelisteten Programme müssen noch nicht vor der Cryptoparty installiert sein. Während der Party werden wir diese zusammen Installieren und Konfigurieren.
-</p>
-    </div>
-  </div>
-</section>
-
-<!-- Team Section
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
-<section id="team">
-  <div class="container">
-    <div class="row">
-      <h1>Die Veranstallter</h1>
-      <div class="block"></div>
-      <p>Vom Maschinendeck e.V. aus Trier sind zu gast, Julian "y0sh" und Niklas, auch "Energy" genannt, in Kooperation mit Rafael von der Fachstelle für Kinder und Jugendpastoral des Bistum Triers die Cryptoparty am 25. November 2017, 14 bis 17 Uhr. im Haus der Jugend in Bitburg.</p>
-    </div>
-    <div class="row">
-      <div class="three columns">
-        <h4>Julian | y0sh</h4>
-        <p>Mitglied im Maschinendeck e.V.</p>
-        <p>
-          <span class="bold">Kontakt</span><br>
-          <a href="http://y0sh.net" target="_blank"><span class="typcn typcn-home-outline icon"></span></a>
-          <a href="mailto:mail@y0sh.net" target="_blank"><span class="typcn typcn-mail icon"></span></a>
-          <a href="https://twitter.com/y_0_s_h" target="_blank"><span class="typcn typcn-social-twitter icon"></span></a>
-          <br> <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x0679CB2A1DF4D852">PGP-Key</a>
-        </p>
-      </div>
-      <div class="three columns">
-        <h4>Niklas | Energy</h4>
-        <p>Mitglied im Maschinendeck e.V.</p>
-        <p>
-          <span class="bold">Kontakt</span><br>
-          <a href="http://www.niklas-schmitt.de" target="_blank"><span class="typcn typcn-home-outline icon"></span></a>
-          <a href="mailto:niklas@niklas-schmitt.de" target="_blank"><span class="typcn typcn-mail icon"></span></a>
-          <a href="https://twitter.com/NikPWR" target="_blank"><span class="typcn typcn-social-twitter icon"></span></a>
-          <br> <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x48B2693339DA4F66">PGP-Key</a>
-        </p>
-      </div>
-        <div class="three columns">
-        <h4>Rafael</h4>
-        <p>Mitarbeiter der Fachstelle für Kinder und Jugendpastoral des Bistum Triers</p>
-        <p>
-          <span class="bold">Kontakt</span><br>
-          <a href="http://www.bistum-trier.de/fachstellejugend-bitburg/" target="_blank"><span class="typcn typcn-home-outline icon"></span></a>
-          <a href="mailto:rafael.stoll@bgv-trier.de" target="_blank"><span class="typcn typcn-mail icon"></span></a>
-        </p>
-    </div>
-  </div>
-</section>
-
 <!-- Testimonials Section
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
@@ -316,44 +257,44 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
 <?php
- 
+
  // An welche Adresse sollen die Mails gesendet werden?
- $zieladresse = 'cryptoparty@pgp.space';  
- 
+ $zieladresse = 'cryptoparty@pgp.space';
+
  // Welche Adresse soll als Absender angegeben werden?
  // (Manche Hoster lassen diese Angabe vor dem Versenden der Mail ueberschreiben)
- $absenderadresse = 'webformular-cryptoparty@pgp.space'; 
- 
+ $absenderadresse = 'webformular-cryptoparty@pgp.space';
+
  // Welcher Absendername soll verwendet werden?
- $absendername = 'Formmailer'; 
- 
+ $absendername = 'Formmailer';
+
  // Welchen Betreff sollen die Mails erhalten?
  $betreff = 'Kontaktformular';
- 
+
  // Zu welcher Seite soll als "Danke-Seite" weitergeleitet werden?
  // Wichtig: Sie muessen hier eine gueltige HTTP-Adresse angeben!
- $urlDankeSeite = 'http://cryptoparty.maschinendeck.org/danke.htm'; 
- 
+ $urlDankeSeite = 'http://cryptoparty.maschinendeck.org/danke.htm';
+
  // Welche(s) Zeichen soll(en) zwischen dem Feldnamen und dem angegebenen Wert stehen?
  $trenner = ":\t"; // Doppelpunkt + Tabulator
- 
- /** 
+
+ /**
   * Ende Konfiguration
-  */ 
- 
+  */
+
  require_once "swiftmail/lib/swift_required.php"; // Swift initialisieren
- 
+
  if ($_SERVER['REQUEST_METHOD'] === "POST") {
- 
+
      $message = Swift_Message::newInstance(); // Ein Objekt für die Mailnachricht.
- 
+
      $message
          ->setFrom(array($absenderadresse => $absendername))
          ->setTo(array($zieladresse)) // alternativ existiert setCc() und setBcc()
          ->setSubject($betreff);
- 
+
      $mailtext = "";
- 
+
      foreach ($_POST as $name => $wert) {
          if (is_array($wert)) {
                  foreach ($wert as $einzelwert) {
@@ -363,22 +304,22 @@
              $mailtext .= $name.$trenner.$wert."\n";
          }
      }
- 
+
      $message->setBody($mailtext, 'text/plain');
- 
+
      $mailer = Swift_Mailer::newInstance(Swift_MailTransport::newInstance());
      $result = $mailer->send($message);
- 
+
      if ($result == 0) {
          die("Mail konnte nicht versandt werden.");
      }
- 
+
      header("Location: $urlDankeSeite");
      exit;
  }
- 
+
  header("Content-type: text/html; charset=utf-8");
- 
+
 ?>
 
 <div class="container">
