@@ -9,8 +9,6 @@
 </head>
 <body>
   <!-- Header Section ––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <!-- Header Section ––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <!-- Header Section ––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <header id="header">
   <div class="main_nav">
     <div class="container">
@@ -32,7 +30,7 @@
     <div class="smallsep heading"></div>
       <article>
     	 <h1 id="headline">Maschinendeck e.V.</h1>
-    	  <p id="text">Wir lernen wie Verschlüsselungen funktionieren, E-Mails wie Edward Snowden zu verschlüsseln, beleuchten, was „Metadaten“ beim Surfen im Internet über uns preisgeben, lernen Datenträger (Festplatten, USB-Sticks) sowie Chats & Messenger zu verschlüsseln.</p>
+    	  <p id="text">Wir lernen wie Verschlüsselungen funktionieren, E-Mails wie Edward Snowden zu verschlüsseln, beleuchten, was „Metadaten“ beim Surfen im Internet über uns preisgeben, lernen Datenträger (Festplatten, USB-Sticks) sowie Chats &amp; Messenger zu verschlüsseln.</p>
       </article>
       <a class="smoothscroll" href="#about">
     <div class="mouse">
@@ -103,7 +101,7 @@
 <section id="team">
   <div class="container">
     <div class="row">
-      <h1>Die Veranstallter</h1>
+      <h1>Die Veranstalter</h1>
       <div class="block"></div>
       <p>Vom Maschinendeck e.V. aus Trier sind zu gast, Julian "y0sh" und Niklas, auch "Energy" genannt, in Kooperation mit Rafael Stoll von der Fachstelle für Kinder und Jugendpastoral Bitburg des Bistum Triers die Cryptoparty am 25. November 2017, 14 bis 17 Uhr. im Haus der Jugend in Bitburg.</p>
     </div>
