@@ -18,7 +18,7 @@
           <li><a class="smoothscroll" href="#header">Home</a></li>
     			<li><a class="smoothscroll" href="#about">Über Cryptopartys</a></li>
           <li><a class="smoothscroll" href="#termin">Termine</a></li>
-    			<li><a class="smoothscroll" href="#team">Die Veranstallter</a></li>
+    			<li><a class="smoothscroll" href="#team">Die Veranstalter</a></li>
     			<li><a class="smoothscroll" href="#portfolio">Verwendete Software</a></li>
     			<li><a class="smoothscroll" href="#testimonial">Kontakt</a></li>
         </ul>
@@ -30,7 +30,7 @@
     <div class="smallsep heading"></div>
       <article>
     	 <h1 id="headline">Maschinendeck e.V.</h1>
-    	  <p id="text">Wir lernen wie Verschlüsselungen funktionieren, E-Mails wie Edward Snowden zu verschlüsseln, beleuchten, was „Metadaten“ beim Surfen im Internet über uns preisgeben, lernen Datenträger (Festplatten, USB-Sticks) sowie Chats &amp; Messenger zu verschlüsseln.</p>
+    	  <p id="text">Wir lernen wie Verschlüsselungen funktionieren, E-Mails wie Edward Snowden zu verschlüsseln, beleuchten, was „Metadaten“ beim Surfen im Internet über uns preisgeben, lernen Datenträger (Festplatten, USB-Sticks) sowie Chats und Messenger zu verschlüsseln.</p>
       </article>
       <a class="smoothscroll" href="#about">
     <div class="mouse">
